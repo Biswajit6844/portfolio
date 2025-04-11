@@ -58,14 +58,7 @@ const services = [
     title: "Project Management",
     icon: creator,
   },
-  {
-    title: "Digital Marketing",
-    icon: dm,
-  },
-  {
-    title: "Data Analyst",
-    icon: data,
-  },
+  
 ];
 
 const technologies = [
