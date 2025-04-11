@@ -58,6 +58,10 @@ const services = [
     title: "Project Management",
     icon: creator,
   },
+  {
+    title: "Data Analyst",
+    icon: data,
+  },
   
 ];
 
