@@ -1,3 +1,4 @@
+import { data } from "autoprefixer";
 import {
   mobile,
   backend,
@@ -54,8 +55,16 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Project Management",
     icon: creator,
+  },
+  {
+    title: "Digital Marketing",
+    icon: dm,
+  },
+  {
+    title: "Data Analyst",
+    icon: data,
   },
 ];
 
